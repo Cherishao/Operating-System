@@ -11,7 +11,7 @@
 
 ## 第一章  [操作系统引论](https://github.com/Cherishao/Operating-System/blob/master/Dir/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%BC%95%E8%AE%BA.md)
 
-##第二章  [进程管理](https://github.com/Cherishao/Operating-System/blob/master/Dir/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86.md)
+##[第二章 进程管理](https://github.com/Cherishao/Operating-System/blob/master/Dir/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86.md)
 
 ##第三章   处理机调度与死锁
 
