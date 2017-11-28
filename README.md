@@ -29,12 +29,12 @@
 
 ---
 ## Courseware
-​             [Courseware](https://github.com/Cherishao/Operating-System/tree/master/Courseware)为操作系统课件，章节目录如下：
+​ [Courseware](https://github.com/Cherishao/Operating-System/tree/master/Courseware)为操作系统课件，章节目录如下：
 
 ![](http://oy3mfxixl.bkt.clouddn.com/201711281501_538.png)
 
 ## Finaly
-                                              最后Test放上了 [《计算机操作系统》复习总结强化版.doc](https://github.com/Cherishao/Operating-System/blob/master/Test/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%A4%8D%E4%B9%A0%E6%80%BB%E7%BB%93%E5%BC%BA%E5%8C%96%E7%89%88.doc)
+ 最后Test放上了 [《计算机操作系统》复习总结强化版.doc](https://github.com/Cherishao/Operating-System/blob/master/Test/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%A4%8D%E4%B9%A0%E6%80%BB%E7%BB%93%E5%BC%BA%E5%8C%96%E7%89%88.doc)
 
 ​                                                           
 
