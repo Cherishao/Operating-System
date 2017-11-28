@@ -17,11 +17,11 @@
 
 ## [第四章 存储器管理](https://github.com/Cherishao/Operating-System/blob/master/Dir/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%AD%98%E5%82%A8%E5%99%A8%E7%AE%A1%E7%90%86.md)
 
-## [第五章 虚拟存储器](https://github.com/Cherishao/Operating-System/blob/master/Dir/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E8%AE%BE%E5%A4%87%E7%AE%A1%E7%90%86.md)
+## [第五章 设备管理](https://github.com/Cherishao/Operating-System/blob/master/Dir/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E8%AE%BE%E5%A4%87%E7%AE%A1%E7%90%86.md)
 
-## [第六章 输入输出系统](https://github.com/Cherishao/Operating-System/blob/master/Dir/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86.md)
+## 第六章 输入输出系统
 
-## 第七章  文件管理
+## [第七章 文件管理](https://github.com/Cherishao/Operating-System/blob/master/Dir/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86.md)
 
 ## 第八章  磁盘存储器的管理
 
